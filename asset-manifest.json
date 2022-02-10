@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/lemon-account-react-website/static/css/main.81eda572.chunk.css",
+    "main.js": "/lemon-account-react-website/static/js/main.0467b7ca.chunk.js",
+    "main.js.map": "/lemon-account-react-website/static/js/main.0467b7ca.chunk.js.map",
+    "runtime-main.js": "/lemon-account-react-website/static/js/runtime-main.d3fac608.js",
+    "runtime-main.js.map": "/lemon-account-react-website/static/js/runtime-main.d3fac608.js.map",
+    "static/js/2.140a1c45.chunk.js": "/lemon-account-react-website/static/js/2.140a1c45.chunk.js",
+    "static/js/2.140a1c45.chunk.js.map": "/lemon-account-react-website/static/js/2.140a1c45.chunk.js.map",
+    "index.html": "/lemon-account-react-website/index.html",
+    "precache-manifest.7d4dd837ceb7b6bfca6b5ea44eadf666.js": "/lemon-account-react-website/precache-manifest.7d4dd837ceb7b6bfca6b5ea44eadf666.js",
+    "service-worker.js": "/lemon-account-react-website/service-worker.js",
+    "static/css/main.81eda572.chunk.css.map": "/lemon-account-react-website/static/css/main.81eda572.chunk.css.map",
+    "static/js/2.140a1c45.chunk.js.LICENSE.txt": "/lemon-account-react-website/static/js/2.140a1c45.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d3fac608.js",
+    "static/js/2.140a1c45.chunk.js",
+    "static/css/main.81eda572.chunk.css",
+    "static/js/main.0467b7ca.chunk.js"
+  ]
+}
